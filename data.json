@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "width": "500",
+      "height": "500",
+      "firstImg": "https://digitalkinnect.in/amp-mailer-example/yuvraj/images/pic1.png",
+      "lastImg": "https://digitalkinnect.in/amp-mailer-example/yuvraj/images/pic3.png",
+      "arrowImg": "https://digitalkinnect.in/amp-mailer-example/yuvraj/images/pic4.png",
+      "resultTotal": "4",
+      "resultImg": [
+        {
+          "id": "1",
+          "title": "Rosa Obscura Red Blend"
+        },
+        {
+          "id": "2",
+          "title": "Rosa Obscura Red Blend"
+        },
+        {
+          "id": "3",
+          "title": "Rosa Obscura Red Blend"
+        },
+        {
+          "id": "4",
+          "title": "Rosa Obscura Red Blend"
+        }
+      ]
+    }
+  ]
+}
